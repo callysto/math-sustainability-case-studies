@@ -21,3 +21,7 @@ https://www150.statcan.gc.ca/n1//en/type/data?MM=1#tables
 Open Government (Canada)
 
 https://open.canada.ca/en
+
+Stats Can Python Package used in some notebooks is credited to Ian E. Preston. 
+
+https://github.com/ianepreston/stats_can
