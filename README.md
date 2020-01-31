@@ -1,10 +1,10 @@
-# Mathematics & Sustainability Case Studies
+# Mathematics For Sustainability
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callysto/SustainabilityCaseStudies/master)
 
 ## Description
 
-This repository contains notebooks for https://jira.cybera.ca/browse/CC-439#cite.IFC2016 
+Extension materials for (pre-service) teachers that use the Jupyter notebook format to apply data and mathematicals tools to real-world sustainability issues and feature open data. 
 
 ## Datasets Explored
 
