@@ -1,5 +1,7 @@
 # Mathematics & Sustainability Case Studies
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/callysto/SustainabilityCaseStudies/master)
+
 ## Description
 
 This repository contains notebooks for https://jira.cybera.ca/browse/CC-439#cite.IFC2016 
