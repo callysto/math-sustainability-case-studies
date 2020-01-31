@@ -12,7 +12,6 @@ This repository contains notebooks for https://jira.cybera.ca/browse/CC-439#cite
 2) Greenhouse gas emissions – Greenhouse gas emissions by province and territory, Canada
 3) Greenhouse gas emissions, by sector
 4) Environmental engagement, Frequency: Every 2 years
-5) Indoor water conservation practices, Frequency: Every 2 years
 
 ## Sources
 
